@@ -2152,9 +2152,9 @@ isobject@^3.0.0, isobject@^3.0.1:
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
 jshashes@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/jshashes/-/jshashes-1.0.7.tgz#bed8c97a0e9632fd0513916f55f76dd5486be59f"
-  integrity sha1-vtjJeg6WMv0FE5FvVfdt1Uhr5Z8=
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/jshashes/-/jshashes-1.0.8.tgz#f60d837428383abf73ab022e1542e6614bd75514"
+  integrity sha512-btmQZ/w1rj8Lb6nEwvhjM7nBYoj54yaEFo2PWh3RkxZ8qNwuvOxvQYN/JxVuwoMmdIluL+XwYVJ+pEEZoSYybQ==
 
 json-parse-better-errors@^1.0.2:
   version "1.0.2"
